@@ -1,3 +1,3 @@
 FROM nginx:alpine
-COPY html /var/www/html
+COPY html /usr/share/nginx/html
 
